@@ -3,5 +3,6 @@
   "symbol": "USDT",
   "description": "Official Tether USD Protocol Token",
   "image": "https://raw.githubusercontent.com/SBAEDR/usdt-logo/main/blockchains/smartchain/assets/0x37b1BE23Ab6b9FC3527237A67dD5AA4DBA555343/logo.png",
-  "website": "https://tether.to/en/",
+  "logo_svg": "https://raw.githubusercontent.com/SBAEDR/USDT/main/USDT_logo_32x32.svg",
+  "website": "https://tether.to/en/"
 }
