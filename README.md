@@ -5,11 +5,12 @@ Official Tether USD Protocol Token
 ## Official Links
 
 - Website: https://tether.to/en/
-- Explorer: https://bscscan.com/token/0x37b1BE23Ab6b9FC3527237A67dD5AA4DBA555343
+- Explorer: https://bscscan.com/token/0x9C3B26681050b0F405eFBc712e2fD5579de2c87C
 - GitHub: https://github.com/SBAEDR/USDT
 
 ## Token Information
 
+- Contract Address: 0x9C3B26681050b0F405eFBc712e2fD5579de2c87C
 - Symbol: USDT
 - Network: Binance Smart Chain (BEP20)
 - Decimals: 18
