@@ -1,12 +1,12 @@
 {
-  "name": "USD",
+  "name": "Dollaris USD",
   "symbol": "USDT",
-  "description": "Official USD Protocol Token",
+  "description": "Dollaris USD is a decentralized digital asset built for the Dollaris ecosystem on BNB Smart Chain.",
   "image": "https://raw.githubusercontent.com/SBAEDR/USDT/main/blockchains/smartchain/assets/0x9C3B26681050b0F405eFBc712e2fD5579de2c87C/logo.png",
-  "logo_svg": "https://raw.githubusercontent.com/SBAEDR/USDT/main/USDT_logo_32x32.svg",
   "website": "https://www.dollaris.pro",
   "explorer": "https://bscscan.com/token/0x9C3B26681050b0F405eFBc712e2fD5579de2c87C",
   "type": "BEP20",
+  "chain": "BSC",
   "decimals": 18,
   "status": "active",
   "id": "0x9C3B26681050b0F405eFBc712e2fD5579de2c87C",
@@ -25,7 +25,8 @@
     }
   ],
   "tags": [
-    "stablecoin",
-    "defi"
+    "defi",
+    "digital-dollar",
+    "bsc"
   ]
 }
