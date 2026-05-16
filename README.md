@@ -12,6 +12,7 @@ Dollaris USD Protocol Token
 ## Token Information
 
 - Contract Address: 0x9C3B26681050b0F405eFBc712e2fD5579de2c87C
+- Name: Dollaris USD
 - Symbol: USDT
 - Network: Binance Smart Chain (BEP20)
 - Decimals: 18
