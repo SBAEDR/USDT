@@ -1,5 +1,5 @@
 {
-  "name": "Tether USD",
+  "name": "USD",
   "symbol": "USDT",
   "type": "BEP20",
   "decimals": 18,
