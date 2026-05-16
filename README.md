@@ -1,6 +1,6 @@
 # USDT BEP20
 
-Official Dollaris USD Protocol Token
+Dollaris USD Protocol Token
 
 ## Official Links
 
