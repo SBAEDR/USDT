@@ -4,7 +4,7 @@ Official Tether USD Protocol Token
 
 ## Official Links
 
-- Website: https://tether.to/en/
+- Website: https://www.dollaris.pro
 - Explorer: https://bscscan.com/token/0x9C3B26681050b0F405eFBc712e2fD5579de2c87C
 - GitHub: https://github.com/SBAEDR/USDT
 - Twitter: https://twitter.com/@dollaris357190
