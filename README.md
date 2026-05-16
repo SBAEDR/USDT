@@ -1,4 +1,4 @@
-# USDT BEP20
+# Dollaris USD (USDT)
 
 Dollaris USD Protocol Token
 
@@ -8,6 +8,7 @@ Dollaris USD Protocol Token
 - Explorer: https://bscscan.com/token/0x9C3B26681050b0F405eFBc712e2fD5579de2c87C
 - GitHub: https://github.com/SBAEDR/USDT
 - Twitter: https://x.com/dollaris357190
+- Telegram: https://t.me/dollaris_usd
 
 ## Token Information
 
@@ -21,8 +22,10 @@ Dollaris USD Protocol Token
 ## Community
 
 - Twitter: https://x.com/dollaris357190
+- Telegram: https://t.me/dollaris_usd
 
 ## Repository
 
-This repository contains the official logo and metadata files for the USDT BEP20 token on Binance Smart Chain.
+This repository contains the official logo and metadata files for Dollaris USD on BNB Smart Chain.
+
 Updated official metadata and logo configuration.
