@@ -24,3 +24,4 @@ Official Tether USD Protocol Token
 ## Repository
 
 This repository contains the official logo and metadata files for the USDT BEP20 token on Binance Smart Chain.
+Updated official metadata and logo configuration.
