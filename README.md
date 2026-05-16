@@ -19,7 +19,7 @@ Official Tether USD Protocol Token
 
 ## Community
 
-- Twitter: https://twitter.com/dollaris
+- Twitter: https://twitter.com/@dollaris357190
 
 ## Repository
 
